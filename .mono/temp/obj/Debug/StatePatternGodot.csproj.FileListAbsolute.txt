@@ -1,0 +1,8 @@
+/Users/koke/Documents/Projects/StatePatternGodot/.mono/temp/bin/Debug/StatePatternGodot.dll
+/Users/koke/Documents/Projects/StatePatternGodot/.mono/temp/bin/Debug/StatePatternGodot.pdb
+/Users/koke/Documents/Projects/StatePatternGodot/.mono/temp/obj/Debug/StatePatternGodot.csprojAssemblyReference.cache
+/Users/koke/Documents/Projects/StatePatternGodot/.mono/temp/obj/Debug/StatePatternGodot.AssemblyInfoInputs.cache
+/Users/koke/Documents/Projects/StatePatternGodot/.mono/temp/obj/Debug/StatePatternGodot.AssemblyInfo.cs
+/Users/koke/Documents/Projects/StatePatternGodot/.mono/temp/obj/Debug/StatePatternGodot.csproj.CoreCompileInputs.cache
+/Users/koke/Documents/Projects/StatePatternGodot/.mono/temp/obj/Debug/StatePatternGodot.dll
+/Users/koke/Documents/Projects/StatePatternGodot/.mono/temp/obj/Debug/StatePatternGodot.pdb
